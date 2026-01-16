@@ -1,0 +1,33 @@
+# Composer dependencies
+/vendor/
+
+# Node modules (если есть)
+node_modules/
+
+# Drupal private files
+/web/sites/default/files/
+/web/sites/simpletest/
+
+# Local settings
+/web/sites/default/settings.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+tmp/
+
+#Other
+composer.json
+composer.lock
+web/core
+web/modules/contrib
+web/themes/custom
+web/modules/custom
+
