@@ -41,3 +41,7 @@ The review is saved in the CMS database but is not published until the website m
 
 "Contact Information" page
 Contains brief information about the company and a map with a location marker (2GIS).
+
+IDE: PHPStorm
+OS: MacOS
+Server: MAMP
