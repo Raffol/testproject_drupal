@@ -25,7 +25,7 @@
 /web/vendor
 /web/core
 /web/modules/README.txt
-/web/modules/contrib
+#/web/modules/contrib
 /web/profiles/README.txt
 /web/profiles/contrib
 /web/sites/development.services.yml
@@ -33,7 +33,7 @@
 /web/sites/example.sites.php
 /web/sites/README.txt
 /web/themes/README.txt
-/web/themes/contrib
+#/web/themes/contrib
 /web/.csslintrc
 /web/.editorconfig
 /web/.eslintignore
