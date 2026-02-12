@@ -1,5 +1,5 @@
-**Test task for setting up the public section in the CMS Drupal.
-**You can use standard CMS templates for the visual version.
+**Test task for setting up the public section in the CMS Drupal**
+You can use standard CMS templates for the visual version.
 
 The website consists of several pages (sections):
 1) Home;
