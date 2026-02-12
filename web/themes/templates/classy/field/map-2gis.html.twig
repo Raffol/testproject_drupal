@@ -1,0 +1,9 @@
+{% set lat = items[0].content['#items'].value.lat %}
+{% set lng = items[0].content['#items'].value.lng %}
+
+<div class="dgis-map"
+      data-lat="{{ lat }}"
+      data-lng="{{ lng }}"
+      style="height: 400px"
+></div>
+{{ attach_library('barik/2gis-map') }}
